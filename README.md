@@ -1,0 +1,1 @@
+Este é um projeto de trabalho escolar da faculdade de Analise e Desenvolvimento de Sistemas (ADS), ainda não finalizado. Este é um projeto CRUD. Somente a função de Adcionar aluno e alterar estão prontas. 
